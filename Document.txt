@@ -1,0 +1,27 @@
+
+doc1 = Document(
+    page_content="Shubman Gill is one of the most promising young batsmen in IPL, known for his elegant stroke play and consistency at the top of the order.",
+    metadata={"team": "Gujarat Titans"}
+)
+
+doc2 = Document(
+    page_content="Sanju Samson is a dynamic wicketkeeper-batsman and captain of Rajasthan Royals, admired for his aggressive batting and leadership skills.",
+    metadata={"team": "Rajasthan Royals"}
+)
+
+doc3 = Document(
+    page_content="KL Rahul is an accomplished opener for Lucknow Super Giants, recognized for his calm demeanor and ability to anchor big chases.",
+    metadata={"team": "Lucknow Super Giants"}
+)
+
+doc4 = Document(
+    page_content="Rashid Khan, the Afghan leg-spinner, is celebrated for his exceptional bowling economy and match-winning performances in the IPL.",
+    metadata={"team": "Gujarat Titans"}
+)
+
+doc5 = Document(
+    page_content="Andre Russell is a powerful all-rounder for Kolkata Knight Riders, feared for his explosive batting and ability to change games with both bat and ball.",
+    metadata={"team": "Kolkata Knight Riders"}
+)
+
+docs = [doc1, doc2, doc3, doc4, doc5]
